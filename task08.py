@@ -1,7 +1,5 @@
 from products import products
 
-from products import products
-
 for product in products:
     reviews = product['reviews']
     
